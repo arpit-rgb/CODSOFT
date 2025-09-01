@@ -1,19 +1,19 @@
-# 🧠 Internship Project Tasks (Python)
+# Internship Project Tasks (Python)
 
 This repository contains 5 tasks completed as part of my internship assignment. Each task is written in Python and stored in its own folder.
 
 ---
 
-## 📌 Task List
+##  Task List
 
-### 🔢 Task 1: Simple Calculator
+###  Task 1: Simple Calculator
 - Perform basic arithmetic operations: addition, subtraction, multiplication, and division
 -Design a simple calculator with basic arithmetic operations.
 Prompt the user to input two numbers and an operation choice.
 
 Perform the calculation and display the result.
 
-### 🔐 Task 2: Password Generator
+###  Task 2: Password Generator
 - Generates strong random passwords based on user-specified length
 - A password generator is a useful tool that generates strong and
 
@@ -33,7 +33,7 @@ generate a password of the specified length.
 Display the Password: Print the generated password on the screen.
 
 
-### ✊ Task 3: Rock Paper Scissors Game
+###  Task 3: Rock Paper Scissors Game
 - Classic game against the computer with score tracking
 - User Input: Prompt the user to choose rock, paper, or scissors.
 
@@ -62,7 +62,7 @@ feedback.
 
   
 
-### 📒 Task 4: Contact Book
+### Task 4: Contact Book
 - Add, view, search, update, and delete contacts with file storage
 - Contact Information: Store name, phone number, email, and address for each contact.
 
@@ -77,7 +77,7 @@ Delete Contact: Provide an option to delete a contact.
 User Interface: Design a user-friendly interface for easy interaction.
 
 
-### 📋 Task 5: To-Do List Application
+###  Task 5: To-Do List Application
 - Create and manage daily tasks in a list format
 -  A To-Do List application is a useful project that helps users manage
 and organize their tasks efficiently. This project aims to create a
@@ -88,7 +88,7 @@ users to create, update, and track their to-do lists
 
 ---
 
-## ✅ How to Run
+##  How to Run
 
 Each task has its own Python file. Navigate to the specific task folder and run:
 
